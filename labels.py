@@ -17,7 +17,7 @@ labels = [
     'Crude petroleum',
     'Gasoline',
     'Fuel oils',
-    'Natural gas and other fossil products',
+    'NG and fossil products',
     'Basic chemicals',
     'Pharmaceuticals',
     'Fertilizers',
